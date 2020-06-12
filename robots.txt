@@ -4,3 +4,4 @@
 User-agent: *
 Disallow:
 This line has been added
+Another line has been added
