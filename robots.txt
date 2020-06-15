@@ -8,4 +8,5 @@ demo 6
 demo 7
 demo 8 (merging)
 demo 9 (merging no fast forward)
+demo 10 (merge conflict)
 demo 11 (merge conflicts 2)
