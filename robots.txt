@@ -8,3 +8,4 @@ Another line has been added
 #This is added comment
 git diff demo
 merge demo
+merge demo 2
