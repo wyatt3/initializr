@@ -6,3 +6,5 @@ Disallow:
 This line has been added
 Another line has been added
 #This is added comment
+git diff demo
+merge demo
